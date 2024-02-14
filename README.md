@@ -56,4 +56,4 @@ Bootstrap: https://getbootstrap.com/
 This project is licensed under the MIT License [MIT](LICENSE)
 
 1. Michael Kiptoo
-2. Allan Murigi
+2. Allan Murigi.
